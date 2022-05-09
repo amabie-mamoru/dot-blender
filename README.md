@@ -25,7 +25,12 @@ Blender 27X
 
 [編集] > [プリファレンス] > [アドオン]
 
-* [x] Import-Export: FBX format
-* [x] Object: mmd_tools
+### Object: mmd_tools
 
-最低限はこれ。他はお好みで。
+MMD モデルを読み込めるようにするためのアドオン
+
+詳しくはこちらから導入を
+
+https://github.com/sugiany/blender_mmd_tools
+
+
