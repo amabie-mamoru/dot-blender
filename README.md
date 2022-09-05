@@ -29,8 +29,24 @@ Blender 27X
 
 MMD モデルを読み込めるようにするためのアドオン
 
-詳しくはこちらから導入を
+元は原神の無料配布モデルがpmxファイルだったのでそれを読み込むためにインストールした
 
-https://github.com/sugiany/blender_mmd_tools
+#### 導入
 
+1. [https://github.com/UuuNyaa/blender\_mmd\_tools/releases/tag/v2.5.1](https://github.com/UuuNyaa/blender_mmd_tools/releases/tag/v2.5.1) より zip をダウンロードする
 
+（v2.5.1 は当時の最新。最新を確認してダウンロードすること）
+
+2. ファイルを怪盗する
+
+3. フォルダの中にある「mmd_tools」フォルダを、「Blenderフォルダ」→「scripts」→「addons」の中に移動する
+
+`open /Applications/Blender.app/Contents/Resources/3.1/scripts/addons/` でアドオンフォルダを開き突っ込む
+
+[編集] > [プリファレンス] を開き、[アドオン] タブから検索で mmd_tools にチェックが入っていることを確認して完了
+
+![](./doc/images/addon.png)
+
+4. [ファイル] > [インポート] から MikuMikuDance Model でインポートできるようになる
+
+![](./doc/images/import-mikumikudance.png)
