@@ -54,3 +54,7 @@ MMD モデルを読み込めるようにするためのアドオン
 4. [ファイル] > [インポート] から MikuMikuDance Model でインポートできるようになる
 
 ![](./doc/images/import-mikumikudance.png)
+
+# おまけ
+
+[HowTo](./HOW_TO.md)
