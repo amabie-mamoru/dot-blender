@@ -10,19 +10,22 @@
 
 [編集] > [プリファレンス] > [キーマップ] > [キーバインド]
 
-Blender 27X
+Blender 3.5.1
 
 3Dビュー > 3D View (Global)
 
 ![](./doc/images/3d-view-1.png)
-
-少し下にスクロールして
-
 ![](./doc/images/3d-view-2.png)
+![](./doc/images/3d-view-3.png)
 
 3Dビュー > オブジェクトモード
 
-![](./doc/images/object-mode.png)
+![](./doc/images/3d-view-4.png)
+![](./doc/images/3d-view-5.png)
+
+3Dビュー > メッシュ
+
+![](./doc/images/3d-view-6.png)
 
 ## アドオン
 
