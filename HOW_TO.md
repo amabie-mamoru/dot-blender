@@ -12,3 +12,6 @@ https://blender-cg.net/edge-split-rip/
 
 https://blender-cg.net/extrude/
 
+## ボーンを左右対称に編集・キャラクターとを紐づける
+
+http://krlab.info.kochi-tech.ac.jp/kurihara/lecture/cg/BlenderWeb_Hayashi/html/bone.html
